@@ -82,6 +82,43 @@ Dashboard
 
 
 
-Project - 2
+Project - 2 (Myntra Dashboard)
+
+
+Submitted the project as partial fulfilment for Advanced Excel completion requirements.
+ 
+Submitted by: 
+Parul Sharma
+
+		On (13-02-2025)
+ 
+Under the supervision of: 
+Nikhil Rana
+
+
+List of Figures 
+ 
+Figure 1 - Sheet Name- dim_products................................................................................... 
+Figure 2 - Sheet Name- fact_orders ..................................................................................... 
+Figure 3 – Sheet Name- dim_Customers .............................................................................. 
+
+ 
+ Problem Statement: - 
+In today’s time the competition in online market is growing day by day, and the online marketing has gained a lot of importance in the present marketing conditions. There is vast growth in the number of people, who are ordering the products from the online portals, and people are adopting themselves to the emerging technology. it is very important to market and advertise the desired products to the customer’s needs by analysing sales data, to target the specific group of customers with similar mindset and advertise products based on their specific needs and means on online platforms to maximize the sale of the Myntra. 
+The current study focus on customers’ needs and sales maximization from Myntra.
+The data used for the present research work is secondary data. The data were collected from the official website of Myntra, another website.
+
+INSIGHTS: -
+	 The young age group below 25 years are maximum contributing to the sales about 58%.
+	 Men and Women category products contribute to 60% of the sales.
+	 Budget (below Rs. 1001) Price Category contributing 48% of the total sales.
+	 These 3 states (Gujrat, Uttar Pradesh, Punjab) contribute to the 44% of the total sales.
+	There is 10% increase in sales in 2022 compare to 2021.
+	 (20-39) % discount range contribute to the 56% of the total sales.
+	Top 5 brands (Puma, H&M, Roadster, Adidas, Allen Solley) contribute 36% of the total sales.
+
+
+Final Conclusion to improve Myntra sales: -
+	Target young customers below the age of 25 living in Gujrat, Uttar Pradesh, Punjab with the budget products of the top 5 brands pricing below Rs. 1000 and with the Discount ranging between (20 – 39) % or with other special offers and coupons.   
 
 
