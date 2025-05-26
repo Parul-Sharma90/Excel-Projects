@@ -85,16 +85,9 @@ Dashboard
 Project - 2 (Myntra Dashboard)
 
 
-Submitted the project as partial fulfilment for Advanced Excel completion requirements.
+Submitted the project as partial fulfillment for Advanced Excel completion requirements.
  
-Submitted by: 
-Parul Sharma
-
-		On (13-02-2025)
- 
-Under the supervision of: 
-Nikhil Rana
-
+<img width="1000" alt="Myntra Dashboard" src="https://github.com/user-attachments/assets/1ccc4e5f-7a92-4614-8f83-df51f20d3e0c" />
 
 List of Figures 
  
